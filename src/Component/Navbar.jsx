@@ -11,7 +11,7 @@ const Navbar = () => {
 
         <h1 className="text-3xl font-bold tracking-wide flex items-center text-white">
           <span className="relative">
-            <FaCrown className="absolute -top-2 left-1/2 -translate-x-1/2 text-yellow-400 text-lg" />
+            <FaCrown className="absolute -top-2 left-1/5 -translate-x-1/2 text-yellow-400 text-lg" />
             M
           </span>
           yPortfolio
