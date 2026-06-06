@@ -11,14 +11,15 @@ const Skill = () => {
     <>
     <div className="min-h-screen bg-black text-white px-6 md:px-20 py-20 relative overflow-hidden">
 
-  <div className="max-w-2xl ml-70 text-center  mt-40">
+<div className="max-w-2xl mx-auto text-center mt-40">
+  <h1 className="text-6xl font-bold mb-6">
+    My <span className="text-blue-400">Skills</span>
+  </h1>
 
-    <h1 className="text-6xl font-bold mb-6">
-      My <span className="text-blue-400">Skills</span>
-    </h1>
-    <h3> Building skills today to create solutions for tomorrow.</h3>
-
-   </div>
+  <h3 className="text-gray-400 text-lg">
+    Building skills today to create solutions for tomorrow.
+  </h3>
+</div>
 
         <marquee className="mt-15 " behavior="scroll" direction="left">
  
